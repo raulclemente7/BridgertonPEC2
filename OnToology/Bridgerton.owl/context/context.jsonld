@@ -1,0 +1,166 @@
+{
+  "@context" : {
+    "URL" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#URL",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Peter_Gregson" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Peter_Gregson"
+    },
+    "Music" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Music"
+    },
+    "Out_of_London" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Out_of_London"
+    },
+    "Vitamin_String_Quartet" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Vitamin_String_Quartet"
+    },
+    "Plays_the_role_of" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Plays_the_role_of",
+      "@type" : "@id"
+    },
+    "Director" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Director",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Production_Team" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Production_Team"
+    },
+    "Characters" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Characters"
+    },
+    "Is_dependant_of" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Is_dependant_of",
+      "@type" : "@id"
+    },
+    "Dmitri_Shostakovich" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Dmitri_Shostakovich"
+    },
+    "Steve_Horner" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Steve_Horner"
+    },
+    "Transports" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Transports"
+    },
+    "Type_Platform" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Type_Platform",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Beethoven" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Beethoven"
+    },
+    "Episodes_Seasson_2" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Episodes_Seasson_2"
+    },
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "Season_1" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Season_1"
+    },
+    "Seassons" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Seassons"
+    },
+    "Is_father_of" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Is_father_of",
+      "@type" : "@id"
+    },
+    "Families_Nobility" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Families_Nobility"
+    },
+    "Filming_Crew" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Filming_Crew"
+    },
+    "Kris_Houston" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Kris_Houston"
+    },
+    "Hannah_V" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Hannah_V"
+    },
+    "Episode_Number" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Episode_Number",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "Kris_Bowers" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Kris_Bowers"
+    },
+    "Commoner" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Commoner"
+    },
+    "Is_distributed_by" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Is_distributed_by",
+      "@type" : "@id"
+    },
+    "Midnite_String_Quartet" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Midnite_String_Quartet"
+    },
+    "Belongs_to_family" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Belongs_to_family",
+      "@type" : "@id"
+    },
+    "Screenwriter" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Screenwriter",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "London" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#London"
+    },
+    "Content_Delivery_Platforms" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Content_Delivery_Platforms"
+    },
+    "Nobility" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Nobility"
+    },
+    "Jacques_Offenbach" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Jacques_Offenbach"
+    },
+    "isDefinedBy" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#isDefinedBy"
+    },
+    "Episodes_Seasson_1" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Episodes_Seasson_1"
+    },
+    "Duomo" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Duomo"
+    },
+    "Actors" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Actors"
+    },
+    "Is_brother_or_sister_of" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Is_brother_or_sister_of",
+      "@type" : "@id"
+    },
+    "Music_Duration" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Music_Duration",
+      "@type" : "http://www.w3.org/2001/XMLSchema#integer"
+    },
+    "Max_Richter" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Max_Richter"
+    },
+    "Mozart" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Mozart"
+    },
+    "Actresses" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Actresses"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "Scenaries" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Scenaries"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "Other" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Other"
+    },
+    "Haydn" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Haydn"
+    },
+    "Season_2" : {
+      "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Season_2"
+    }
+  }
+}
