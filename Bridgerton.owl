@@ -161,7 +161,6 @@
     <!-- http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#URL -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#URL">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Content_Delivery_Platforms"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Music"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
         <rdfs:comment>URL</rdfs:comment>
