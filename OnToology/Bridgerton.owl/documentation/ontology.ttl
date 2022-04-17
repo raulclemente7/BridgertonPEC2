@@ -107,8 +107,7 @@
 
 ###  http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#URL
 :URL rdf:type owl:DatatypeProperty ;
-     rdfs:domain :Content_Delivery_Platforms ,
-                 :Music ;
+     rdfs:domain :Music ;
      rdfs:range xsd:string ;
      rdfs:comment "URL" ;
      rdfs:label "URL"@en .

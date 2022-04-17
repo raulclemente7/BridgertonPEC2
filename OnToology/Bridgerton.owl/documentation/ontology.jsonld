@@ -2235,8 +2235,6 @@
     "@value" : "URL"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#domain" : [ {
-    "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Content_Delivery_Platforms"
-  }, {
     "@id" : "http://www.semanticweb.org/UOC-Raul_Oscar/ontologies/2022/2/Bridgerton#Music"
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
